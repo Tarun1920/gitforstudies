@@ -1,2 +1,2 @@
 # gitforstudies
-i started this for study purpose only
+my completed assignments
